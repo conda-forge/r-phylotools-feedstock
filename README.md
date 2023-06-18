@@ -1,11 +1,11 @@
-About r-phylotools
-==================
+About r-phylotools-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylotools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/helixcn/phylotools
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylotools-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of tools for building RAxML supermatrix using PHYLIP or aligned FASTA files. These functions will be useful for building large phylogenies using multiple markers.
 
