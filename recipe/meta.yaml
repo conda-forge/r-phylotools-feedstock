@@ -1,6 +1,5 @@
 {% set version = '0.2.2' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-phylotools
@@ -13,8 +12,7 @@ source:
   sha256: 9c107d2f6b0b48806c94aec678f03ab50d9436315f5ad703fd24fe72990d13b6
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
 
   rpaths:
